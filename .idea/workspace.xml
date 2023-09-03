@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e2eb2e8-def4-4c35-9c10-06453c189f45" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/views/Buscar$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/Buscar$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/Buscar$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/Buscar$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/Buscar$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/Buscar$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/Buscar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/Login$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/Login$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/Login$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/Login$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/Login$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/Login$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/Login$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/Login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/MenuPrincipal$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/MenuPrincipal$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/MenuPrincipal$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/MenuPrincipal$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/MenuPrincipal$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/MenuPrincipal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/MenuUsuario$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/MenuUsuario$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/MenuUsuario$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/MenuUsuario$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/MenuUsuario$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/MenuUsuario$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/MenuUsuario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/RegistroHospede$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/RegistroHospede$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/RegistroHospede$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/RegistroHospede$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/RegistroHospede$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/RegistroHospede$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/RegistroHospede.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/ReservasView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/ReservasView$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/ReservasView$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/ReservasView$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/ReservasView$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/ReservasView$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/ReservasView$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/ReservasView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/Sucesso$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/Sucesso.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Utso3AQjKXBNNOZURXptMQSCQo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/rlago/Documents/challange_HOTEL_ALURA/JARS/mysql-connector-java-8.0.17.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e2eb2e8-def4-4c35-9c10-06453c189f45" name="Changes" comment="" />
+      <created>1693770392588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693770392588</updated>
+      <workItem from="1693770393648" duration="192000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
