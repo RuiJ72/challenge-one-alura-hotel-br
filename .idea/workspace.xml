@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e2eb2e8-def4-4c35-9c10-06453c189f45" name="Changes" comment="adding configuration files">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/Login$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/views/Login$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/MenuPrincipal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/views/MenuPrincipal.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +48,16 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Sucesso">
-    <configuration name="MenuPrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="views.MenuPrincipal" />
+  <component name="RunManager" selected="Application.MenuPrincipal">
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="views.Login" />
       <module name="AluraHotel-PT-Base" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenuUsuario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="views.MenuUsuario" />
+    <configuration name="MenuPrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="views.MenuPrincipal" />
       <module name="AluraHotel-PT-Base" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MenuPrincipal" />
+        <item itemvalue="Application.Login" />
         <item itemvalue="Application.Sucesso" />
         <item itemvalue="Application.ReservasView" />
         <item itemvalue="Application.RegistroHospede" />
-        <item itemvalue="Application.MenuUsuario" />
-        <item itemvalue="Application.MenuPrincipal" />
       </list>
     </recent_temporary>
   </component>
@@ -138,6 +142,7 @@
       <workItem from="1693770393648" duration="1308000" />
       <workItem from="1693775409525" duration="1112000" />
       <workItem from="1693776775026" duration="1058000" />
+      <workItem from="1693778087705" duration="812000" />
     </task>
     <task id="LOCAL-00001" summary="Structuring the project">
       <option name="closed" value="true" />

@@ -100,6 +100,7 @@ public class Reserva {
 
     @Override
     public int hashCode() {
+
         return Objects.hash(id);
     }
 }
