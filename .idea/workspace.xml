@@ -1,57 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e2eb2e8-def4-4c35-9c10-06453c189f45" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/bin/views/Buscar$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/Buscar$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/Buscar$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/Buscar$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/Buscar$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/Buscar$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/Buscar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/Login$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/Login$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/Login$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/Login$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/Login$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/Login$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/Login$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/MenuPrincipal$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/MenuPrincipal$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/MenuPrincipal$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/MenuPrincipal$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/MenuPrincipal$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/MenuPrincipal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/MenuUsuario$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/MenuUsuario$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/MenuUsuario$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/MenuUsuario$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/MenuUsuario$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/MenuUsuario$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/MenuUsuario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/RegistroHospede$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/RegistroHospede$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/RegistroHospede$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/RegistroHospede$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/RegistroHospede$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/RegistroHospede$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/RegistroHospede.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/ReservasView$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/ReservasView$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/ReservasView$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/ReservasView$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/ReservasView$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/ReservasView$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/ReservasView$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/ReservasView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/Sucesso$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/views/Sucesso.class" beforeDir="false" />
+    <list default="true" id="4e2eb2e8-def4-4c35-9c10-06453c189f45" name="Changes" comment="adding configuration files">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Login.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,15 +37,96 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/rlago/Documents/challange_HOTEL_ALURA/JARS/mysql-connector-java-8.0.17.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Sucesso">
+    <configuration name="MenuPrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="views.MenuPrincipal" />
+      <module name="AluraHotel-PT-Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="views.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuUsuario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="views.MenuUsuario" />
+      <module name="AluraHotel-PT-Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="views.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistroHospede" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="views.RegistroHospede" />
+      <module name="AluraHotel-PT-Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="views.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReservasView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="views.ReservasView" />
+      <module name="AluraHotel-PT-Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="views.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sucesso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="views.Sucesso" />
+      <module name="AluraHotel-PT-Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="views.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sucesso" />
+        <item itemvalue="Application.ReservasView" />
+        <item itemvalue="Application.RegistroHospede" />
+        <item itemvalue="Application.MenuUsuario" />
+        <item itemvalue="Application.MenuPrincipal" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -85,11 +135,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693770392588</updated>
-      <workItem from="1693770393648" duration="192000" />
+      <workItem from="1693770393648" duration="1308000" />
+      <workItem from="1693775409525" duration="1112000" />
+      <workItem from="1693776775026" duration="1058000" />
     </task>
+    <task id="LOCAL-00001" summary="Structuring the project">
+      <option name="closed" value="true" />
+      <created>1693770810698</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693770810698</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding configuration files">
+      <option name="closed" value="true" />
+      <created>1693770843943</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693770843943</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Structuring the project" />
+    <MESSAGE value="adding configuration files" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding configuration files" />
   </component>
 </project>
